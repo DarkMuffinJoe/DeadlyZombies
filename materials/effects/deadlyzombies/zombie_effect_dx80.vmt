@@ -1,0 +1,10 @@
+"Modulate"
+{
+	"%keywords" "deadlyzombies"
+	"$model" "1"
+	"$basetexture" "effects/deadlyzombies/zombie_effect_overlay"
+//	"$additive" "1"
+	"$mod2x" "1"
+	"$color2" "[1 .7 .6]"
+}
+
