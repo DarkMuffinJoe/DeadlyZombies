@@ -6,7 +6,7 @@ This addon is also available on Steam Workshop! Here's the [Link](http://steamco
 It's much easier to install it from workshop!
 
 # License
-Copyright 2014-2015 Jakub Bizewski
+Copyright 2014-2015 Jakub Bizewski (DarkMuffinJoe)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
