@@ -18,7 +18,7 @@ end )
 
 local function SetStatus(ply)
 	if ply:IsAdmin() then
-		canseezombies = !canseezombies
+		//canseezombies = !canseezombies
 	end
 end
 
